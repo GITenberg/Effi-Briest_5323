@@ -1,0 +1,57 @@
+_repo: Effi-Briest_5323
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fontane, Theodor
+    aliases:
+    - Fontane, Henri Théodore
+    - Fontane, Henri Theodore
+    - Fontane, Teodor
+    birthdate: 1819
+    deathdate: 1898
+    gutenberg_agent_id: '1765'
+    url: http://www.gutenberg.org/2009/agents/1765
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Theodor_Fontane
+    - http://de.wikipedia.org/wiki/Theodor_Fontane
+description: "Effi Briest is a realist novel by Theodor Fontane. Thomas Mann said\
+  \ that if one had to reduce one’s library to six novels, Effi Briest would have\
+  \ to be one of them. Published in book form in 1896, Effi Briest marks both a watershed\
+  \ and a climax in the poetic realism of literature and forms a thematic trilogy\
+  \ on 19th century marriage from a female perspective along with Anna Karenina and\
+  \ Madame Bovary. All three are adultery tragedies.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5323'
+  wikidata: Q1296168
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Teenage girls -- Fiction'
+- !lcsh 'National characteristics, Prussian -- Fiction'
+- !lcsh 'Berlin (Germany) -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Adultery -- Fiction'
+- !lcsh 'Didactic fiction'
+- !lcc 'PT'
+- !lcsh 'Prussia (Germany) -- Social life and customs -- 19th century -- Fiction'
+- GITenberg
+title: Effi Briest
+url: http://www.gutenberg.org/ebooks/5323
+wikipedia:
+- https://eo.wikipedia.org/wiki/Effi_Briest
+- https://nl.wikipedia.org/wiki/Effi_Briest
+- https://pl.wikipedia.org/wiki/Effi_Briest
+- https://de.wikipedia.org/wiki/Effi_Briest
+- https://fr.wikipedia.org/wiki/Effi_Briest
+- https://es.wikipedia.org/wiki/Effi_Briest
+- https://bg.wikipedia.org/wiki/%D0%95%D1%84%D0%B8_%D0%91%D1%80%D0%B8%D1%81%D1%82
+- https://en.wikipedia.org/wiki/Effi_Briest
+- https://it.wikipedia.org/wiki/Effi_Briest
+- https://no.wikipedia.org/wiki/Effi_Briest
+- https://az.wikipedia.org/wiki/Effi_Bryest_(roman)
+- https://tr.wikipedia.org/wiki/Effi_Briest_(roman)
+- https://sv.wikipedia.org/wiki/Effi_Briest
